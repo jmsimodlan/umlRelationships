@@ -2,8 +2,7 @@
 
 ## About This Project
 
-This repository contains my sample Python codes about the six UML relationships we learned in our lesson. Each file shows a simple example of how these relationships work in Object-Oriented Programming (OOP).
-
+This repository contains my sample Python codes about the six UML relationships we learned in our lesson.
 ## UML Relationships
 
 ### 1. Inheritance (Is-a)
